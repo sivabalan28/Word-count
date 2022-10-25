@@ -19,6 +19,9 @@ Iterate the list and increment the count
 Print the output
 ## PROGRAM:
 ```python
+#Program for getting the word count from text 
+#Developed by: Sivabalan S
+#Register number: 22004401
 def wordcount():
     cnt = 0
     with open("MyFile.txt","r") as fp:
